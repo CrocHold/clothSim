@@ -1,5 +1,5 @@
 # Cloth Simulation
-Spring mass based cloth simulation implemented in precessing.
+Spring mass based cloth simulation implemented in processing.
 
 # Run
 Download [processing](https://processing.org/download) and open this project in proecssing.
